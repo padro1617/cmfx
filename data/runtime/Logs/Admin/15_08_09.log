@@ -1,0 +1,118 @@
+[ 2015-08-09T08:26:37+08:00 ] ::1 /cmfx/index.php?g=Admin&m=public&a=dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001505s ]
+
+[ 2015-08-09T08:26:41+08:00 ] ::1 /cmfx/index.php?g=Admin&m=public&a=dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+SQL: SHOW COLUMNS FROM `sp_users` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `sp_users` WHERE `user_login` = 'admin' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_role_user` [ RunTime:0.0143s ]
+SQL: SELECT `role_id` FROM sp_role_user a INNER JOIN sp_role as b on a.role_id =b.id  WHERE `user_id` = '1' AND `status` = 1  [ RunTime:0.0067s ]
+SQL: UPDATE `sp_users` SET `user_login`='admin',`user_pass`='c535018ee946e10adc3949ba59abbe56e057f20f883e89af',`user_nicename`='admin',`user_email`='821807583@qq.com',`user_url`='http://www.agevisual.com/',`avatar`=NULL,`sex`='1',`birthday`='0000-00-00',`signature`='时代视觉工作室长期制作网页设计企业/门户/商城网站建设logo标志制作FLASH制作div+css页面布局，欢迎长期合作',`last_login_ip`='0.0.0.0',`last_login_time`='2015-08-09 08:26:41',`create_time`='2015-07-28 08:25:06',`user_activation_key`='',`user_status`='1',`score`='0',`user_type`='1' WHERE `id` = '1' [ RunTime:0.0010s ]
+
+[ 2015-08-09T09:39:55+08:00 ] ::1 /cmfx/index.php?g=Admin&m=Menu&a=index&menuid=100
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T09:54:01+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=lists
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T09:54:45+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=edit&id=73
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T09:54:58+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=spmy_getactions
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+NOTIC: D方法实例化没找到模型类Common\Model\RouteModel
+
+[ 2015-08-09T09:55:00+08:00 ] ::1 /cmfx/index.php?g=admin&m=menu&a=spmy_getactions&app=Portal
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T09:55:01+08:00 ] ::1 /cmfx/index.php?g=admin&m=menu&a=spmy_getactions&app=Asset
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T09:55:02+08:00 ] ::1 /cmfx/index.php?g=admin&m=menu&a=spmy_getactions&app=Api
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T09:55:03+08:00 ] ::1 /cmfx/index.php?g=admin&m=menu&a=spmy_getactions&app=User
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T09:55:04+08:00 ] ::1 /cmfx/index.php?g=admin&m=menu&a=spmy_getactions&app=Wx
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T09:55:06+08:00 ] ::1 /cmfx/index.php?g=admin&m=menu&a=spmy_getactions&app=Comment
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T09:55:06+08:00 ] ::1 /cmfx/index.php?g=admin&m=menu&a=lists
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T09:59:35+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=spmy_export_menu
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T09:59:37+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=index
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T10:11:28+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=lists
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T10:12:01+08:00 ] ::1 /cmfx/index.php?g=Admin&m=Menu&a=index&menuid=100
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T10:12:04+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=lists
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T10:13:11+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=edit&id=130
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T10:13:26+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=index
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T10:13:28+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=lists
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T10:13:40+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=edit&id=127
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T10:13:48+08:00 ] ::1 /cmfx/index.php?g=Admin&m=Menu&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+SQL: SHOW COLUMNS FROM `sp_users` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `sp_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_menu` [ RunTime:0.0096s ]
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+SQL: SHOW COLUMNS FROM `sp_auth_rule` [ RunTime:0.0106s ]
+SQL: SELECT `id` FROM `sp_menu` WHERE `app` = 'Admin' AND `model` = 'Mailer' AND `action` = 'index' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `sp_menu` SET `parentid`='126',`name`='SMTP配置',`app`='Admin',`model`='Mailer',`action`='index',`data`='',`icon`='',`remark`='',`status`='0',`type`='1' WHERE `id` = 127 [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_auth_rule` WHERE `name` = 'admin/mailer/index' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `sp_auth_rule` SET `name`='admin/mailer/index',`module`='Admin',`type`='admin_url',`title`='SMTP配置' WHERE `name` = 'admin/mailer/index' [ RunTime:0.0006s ]
+
+[ 2015-08-09T10:13:48+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=edit&id=127
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T10:14:52+08:00 ] ::1 /cmfx/index.php?g=Admin&m=Menu&a=index&menuid=100
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T10:14:53+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=lists
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2015-08-09T10:15:31+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=delete&id=128
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001754s ]
+SQL: SHOW COLUMNS FROM `sp_users` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `sp_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_menu` [ RunTime:0.0070s ]
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+SQL: SHOW COLUMNS FROM `sp_auth_rule` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sp_menu` WHERE `parentid` = 128 LIMIT 1   [ RunTime:0.0002s ]
+SQL: DELETE FROM `sp_menu` WHERE `id` = 128 [ RunTime:0.0002s ]
+
+[ 2015-08-09T10:15:31+08:00 ] ::1 /cmfx/index.php?g=Admin&m=menu&a=lists
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+

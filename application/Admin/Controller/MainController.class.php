@@ -19,6 +19,7 @@ class MainController extends AdminbaseController {
     			'上传附件限制' => ini_get('upload_max_filesize'),
     			'执行时间限制' => ini_get('max_execution_time') . "秒",
     			'剩余空间' => round((@disk_free_space(".") / (1024 * 1024)), 2) . 'M',
+    			'技术支持'=>"<a href='http://www.agevisual.com/' target='_blank'>时代视觉工作室</a>"
     	);
     	$this->assign('server_info', $info);
     	$this->display();

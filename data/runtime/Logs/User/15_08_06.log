@@ -1,0 +1,91 @@
+[ 2015-08-06T08:47:57+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001488s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+
+[ 2015-08-06T08:47:59+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002206s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+
+[ 2015-08-06T08:48:02+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001913s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+
+[ 2015-08-06T08:48:06+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002171s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+
+[ 2015-08-06T08:48:07+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001400s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+
+[ 2015-08-06T08:48:09+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001732s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+
+[ 2015-08-06T08:48:11+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001735s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+
+[ 2015-08-06T08:51:21+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002571s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+
+[ 2015-08-06T08:51:28+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002304s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+
+[ 2015-08-06T08:51:32+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+
+[ 2015-08-06T08:51:39+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001922s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+
+[ 2015-08-06T08:58:53+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001973s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+
+[ 2015-08-06T09:01:30+08:00 ] ::1 /cmfx/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002371s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\cmfx\application\Common\Controller\AppframeController.class.php 第 43 行.
+

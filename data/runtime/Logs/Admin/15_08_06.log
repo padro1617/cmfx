@@ -1,0 +1,21 @@
+[ 2015-08-06T08:58:35+08:00 ] ::1 /cmfx/index.php?g=Admin&m=ad&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001515s ]
+SQL: SHOW COLUMNS FROM `sp_users` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `sp_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_ad` [ RunTime:0.0088s ]
+SQL: INSERT INTO `sp_ad` (`ad_name`,`ad_content`) VALUES ('这里是广告了','&lt;div class=&quot;bdsharebuttonbox&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;bds_more&quot; data-cmd=&quot;more&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;bds_qzone&quot; data-cmd=&quot;qzone&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;bds_tsina&quot; data-cmd=&quot;tsina&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;bds_tqq&quot; data-cmd=&quot;tqq&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;bds_renren&quot; data-cmd=&quot;renren&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;bds_weixin&quot; data-cmd=&quot;weixin&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;script&gt;window._bd_share_config={&quot;common&quot;:{&quot;bdSnsKey&quot;:{},&quot;bdText&quot;:&quot;&quot;,&quot;bdMini&quot;:&quot;2&quot;,&quot;bdPic&quot;:&quot;&quot;,&quot;bdStyle&quot;:&quot;0&quot;,&quot;bdSize&quot;:&quot;16&quot;},&quot;share&quot;:{},&quot;image&quot;:{&quot;viewList&quot;:[&quot;qzone&quot;,&quot;tsina&quot;,&quot;tqq&quot;,&quot;renren&quot;,&quot;weixin&quot;],&quot;viewText&quot;:&quot;分享到：&quot;,&quot;viewSize&quot;:&quot;16&quot;},&quot;selectShare&quot;:{&quot;bdContainerClass&quot;:null,&quot;bdSelectMiniList&quot;:[&quot;qzone&quot;,&quot;tsina&quot;,&quot;tqq&quot;,&quot;renren&quot;,&quot;weixin&quot;]}};with(document)0[(getElementsByTagName(\'head\')[0]||body).appendChild(createElement(\'script\')).src=\'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=\'+~(-new Date()/36e5)];&lt;/script&gt;') [ RunTime:0.0004s ]
+
+[ 2015-08-06T09:01:25+08:00 ] ::1 /cmfx/index.php?g=Admin&m=link&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001593s ]
+SQL: SHOW COLUMNS FROM `sp_users` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `sp_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_links` [ RunTime:0.0081s ]
+SQL: INSERT INTO `sp_links` (`link_name`,`link_url`,`link_image`,`link_target`,`link_description`) VALUES ('技术支持','http://www.agevisual.com/','http://www.agevisual.com/bitbug_favicon.ico','_blank','') [ RunTime:0.0003s ]
+

@@ -23,8 +23,7 @@ class PublicController extends AdminbaseController {
     			redirect(__ROOT__."/");
     		}else{
     			$this->display(":login");
-    		}
-    		
+    		}    		
     	}
     }
     

@@ -40,8 +40,9 @@ define("SIMPLEWIND_CMF_VERSION", 'X1.6.0');
 define("THINKCMF_CORE_TAGLIBS", 'cx,Common\Lib\Taglib\TagLibSpadmin,Common\Lib\Taglib\TagLibHome');
 
 if(function_exists('saeAutoLoader') || isset($_SERVER['HTTP_BAE_ENV_APPID'])){
-	
+	//新浪SAE //百度BAE
 }else{
+	//本地	
 	if(file_exists("install") && !file_exists("install/install.lock")){
 		header("Location:./install");
 		exit();
